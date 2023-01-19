@@ -1,0 +1,17 @@
+{
+  "editor.fontSize": 20,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "terminal.integrated.fontSize": 25,
+  "editor.tabSize": 2,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Cascadia Code', Victor Mono",
+  "workbench.productIconTheme": "fluent-icons",
+  "explorer.confirmDelete": false,
+  "editor.codeActionsOnSave": [
+    "source.fixAll"
+  ],
+  "editor.formatOnSave": true,
+  "standard.autoFixOnSave":  true,
+  "standard.enable": true,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+}
